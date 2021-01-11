@@ -1,0 +1,3 @@
+pip install pyfiglet
+pip install termcolor
+rm -rf setup
